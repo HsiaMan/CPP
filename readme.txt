@@ -1,2 +1,2 @@
-This branch is for Windows
+This branch is the Macbranch
 
